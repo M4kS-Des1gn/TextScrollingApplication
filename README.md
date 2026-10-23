@@ -99,6 +99,11 @@ This project demonstrates how to:
 - Display feedback messages using `Toast`.
 - Apply edge-to-edge layout handling with AndroidX.
 
+<img width="432" height="891" alt="Screenshot1" src="https://github.com/user-attachments/assets/fb88f406-44c0-4993-8e1a-7253a9dc3879" />
+<img width="438" height="892" alt="Screenshot3" src="https://github.com/user-attachments/assets/e508cc0f-7b81-417c-af96-8ef093c38bd9" />
+<img width="442" height="886" alt="Screenshot2" src="https://github.com/user-attachments/assets/7caad8b9-1c46-49b5-a2e5-e452a4a1edf2" />
+
+
 ## 👨‍💻 Author
 Maks Rakuša
 
