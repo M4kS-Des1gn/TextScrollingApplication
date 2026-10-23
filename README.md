@@ -100,7 +100,7 @@ This project demonstrates how to:
 - Apply edge-to-edge layout handling with AndroidX.
 
 <img width="300" height="611" alt="Screenshot3" src="https://github.com/user-attachments/assets/25c4fb14-35b4-4dd0-9be1-c5f65d3f2451" />
-<img width="300" height="601" alt="Screenshot2" src="https://github.com/user-attachments/assets/221edf6c-e9f1-4408-8b96-baa7781f7388" />
+<img width="300" height="611" alt="Screenshot2" src="https://github.com/user-attachments/assets/221edf6c-e9f1-4408-8b96-baa7781f7388" />
 <img width="300" height="619" alt="Screenshot1" src="https://github.com/user-attachments/assets/abfa2c4c-1f1f-495d-b840-7d12e0a3a677" />
 
 ## 👨‍💻 Author
